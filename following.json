@@ -1,0 +1,43 @@
+{
+  "relationships_following": [
+  {
+    "title": "",
+    "media_list_data": [
+      
+    ],
+    "string_list_data": [
+      {
+        "href": "https://www.instagram.com/dummy_0",
+        "value": "dummy_0",
+        "timestamp": 1686384440
+      }
+    ]
+  },
+  {
+    "title": "",
+    "media_list_data": [
+      
+    ],
+    "string_list_data": [
+      {
+        "href": "https://www.instagram.com/dummy_1",
+        "value": "dummy_1",
+        "timestamp": 1686342911
+      }
+    ]
+  },
+  {
+    "title": "",
+    "media_list_data": [
+      
+    ],
+    "string_list_data": [
+      {
+        "href": "https://www.instagram.com/dummy_2",
+        "value": "dummy_2",
+        "timestamp": 1686342919
+      }
+    ]
+  }
+]
+}
