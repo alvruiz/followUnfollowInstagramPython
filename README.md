@@ -2,7 +2,7 @@
 A program to check who is not following you from your following users. 
 The version used for the development of this project is Python 3.9.2
 ## How to use it?
-- Go to this  [page](https://www.instagram.com/download/request), fill with your email and check the JSON box.
+- Go to the account center to download just partial information (followers and following), it's important to check the JSON box.
   
 ![image](https://github.com/alvruiz/followUnfollowInstagramPython/assets/97341669/ea14859e-1b07-4ed3-8e6d-96ebf71318ce)  
 - Wait the email with your data (it could take up to 48h)  
